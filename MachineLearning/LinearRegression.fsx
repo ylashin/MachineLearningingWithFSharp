@@ -121,6 +121,9 @@ let fullMatrix = Matrix<double>.Build.DenseOfColumnArrays(Array.ofList ageList,A
                                       
 DelimitedWriter.Write("d:\\matrix.csv",fullMatrix,",")  
 
+// take the above CSV file and use Azure ML basic linear regression experiment to compare results
+
+
 
 
 
