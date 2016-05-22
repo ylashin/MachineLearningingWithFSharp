@@ -58,6 +58,7 @@
     <Content Include="packages.config" />
     <None Include="References.fsx" />
     <None Include="LinearRegression.fsx" />
+    <Content Include="Google.DataTable.Net.Wrapper.XML" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Deedle">
