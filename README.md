@@ -1,4 +1,4 @@
-# MachineLearningingWithFSharp
+# Understand machine learning algorithms with F&#35;
 Understand basic ideas of ML algorithms like linear regression using F#
 
 ## Prerequisties
