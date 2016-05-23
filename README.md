@@ -13,3 +13,5 @@ Understand basic ideas of ML algorithms like linear regression using F#
 
 ## Presentation
 The folder "Presentation" contains a PowerPoint file with some high level intro on ML and Linear Regression
+
+You can also view the slide deck on : https://speakerdeck.com/ylashin/machine-learning-with-f-number
